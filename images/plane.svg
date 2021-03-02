@@ -1,0 +1,14 @@
+<svg width="72" height="72" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
+<path stroke-linecap="round" stroke-width="1" stroke="#ffffff" d="M14.6499 10H17.9999"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#ffffff" d="M9.35 10H6"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#ffffff" d="M12 9V5"></path>
+<path stroke-width="1" stroke="#ffffff" fill="#C4B6FF" d="M16 14C16 16.7614 14.7614 19 12 19C9.23858 19 8 16.7614 8 14C8 11.2386 9.23858 9 12 9C14.7614 9 16 11.2386 16 14Z"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#ffffff" d="M16 14H21L22 12"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#ffffff" d="M8 14H3L2 12"></path>
+<circle stroke-width="1" stroke="#ffffff" fill="#C4B6FF" r="1" cy="16" cx="12"></circle>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#ffffff" d="M13.5 13.0001C13.5 13.0001 13 11.9501 12 11.9501C11 11.9501 10.5 13.0001 10.5 13.0001"></path>
+<circle stroke-width="1" stroke="#ffffff" fill="#C4B6FF" r="1" cy="16" cx="5"></circle>
+<circle stroke-width="1" stroke="#ffffff" fill="#C4B6FF" r="1" cy="16" cx="19"></circle>
+<path stroke-width="1" stroke="#ffffff" d="M19 14V15"></path>
+<path stroke-width="1" stroke="#ffffff" d="M5 14V15"></path>
+</svg>

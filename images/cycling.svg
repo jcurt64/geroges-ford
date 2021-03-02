@@ -1,0 +1,8 @@
+<svg width="72" height="72" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
+<circle stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#ffffff" fill="#C4B6FF" r="3" cy="16" cx="5"></circle>
+<circle stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#ffffff" fill="#C4B6FF" r="3" cy="16" cx="19"></circle>
+<circle stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#ffffff" fill="#C4B6FF" r="1" cy="6" cx="16"></circle>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#ffffff" fill="#C4B6FF" d="M14.0074 9C14.0074 9 14.0074 8 13.0074 8C12.0074 8 9.16346 8.6646 9.00735 10.5001C8.9908 10.6946 9.00737 11 9.00737 11L14.0074 9Z"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#ffffff" d="M14 9L17 11H20"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#ffffff" d="M9 11.0001C9 13.1564 11.5 12.9999 13 14.0001C14.1715 14.7813 11 18 11 18"></path>
+</svg>
